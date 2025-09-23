@@ -31,3 +31,5 @@ node_modules/
 .npm
 *.tgz
 .yarn-integrity
+
+.env
